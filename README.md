@@ -1,4 +1,6 @@
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #FF6347; font-size: 36px; text-transform: uppercase; margin-top: 20px;">🌍 Hello, world! Welcome to my GitHub profile. 🌍</h2>
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50; font-size: 20px; font-style: italic; background-color: #F0F0F0; padding: 10px; border-radius: 10px;">My brain’s like SQL: sometimes it’s executing queries, sometimes it’s stuck on 'error 404 – brain not found'. 🚀</h3>
 
