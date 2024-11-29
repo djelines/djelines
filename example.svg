@@ -1,0 +1,27 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                h2 {
+                    font-family: 'Arial', sans-serif;
+                    color: #FF6347;
+                    font-size: 36px;
+                    text-transform: uppercase;
+                    text-align: center;
+                    margin-top: 20px;
+                    animation: colorChange 3s infinite alternate;
+                }
+
+                @keyframes colorChange {
+                    from {
+                        color: #FF6347;
+                    }
+                    to {
+                        color: #4682B4;
+                    }
+                }
+            </style>
+            <h2>🌍 Hello, world! Welcome to my GitHub profile. 🌍</h2>
+        </div>
+    </foreignObject>
+</svg>
