@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="h2.svg" width="400" height="200" alt="Hello World SVG">
+    <img src="h2.svg" alt="Hello World SVG">
     <br>
     <img src="h3.svg" width="400" height="200" alt="Brain SQL SVG">
 </div>
