@@ -1,11 +1,11 @@
 <div align="center">
-    <img src="title_animation.svg" width="700" alt="css-in-readme">
+    <img src="title_animation.svg" width="800" alt="css-in-readme">
 </div>
-
+<hr>
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djelines&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=jolly&hide_border=true&custom_title=My%20Coding%20Toolbox" height="160" alt="languages graph" />
 </div>
-
+<hr>
 <img align="right" height="100" src="https://i.pinimg.com/originals/b0/da/cd/b0dacd0bb277315b8582d2d0e07d62a8.gif" />
 
 <div align="right" style="font-family: 'Arial', sans-serif; color: #333; font-size: 16px;">
