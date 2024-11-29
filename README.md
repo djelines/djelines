@@ -12,52 +12,24 @@
 
 <div align="right" style="font-family: 'Arial', sans-serif; color: #333; font-size: 16px;">
   <p style="font-weight: bold; color: #FF6347; margin-bottom: 10px;">Technologies I work with:</p>
-  <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.php.net/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" style="margin-right: 12px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" style="margin-right: 12px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" style="margin-right: 12px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" style="margin-right: 12px;" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" style="margin-right: 12px;" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" style="margin-right: 12px;" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" style="margin-right: 12px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" style="margin-right: 12px;" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" style="margin-right: 12px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" style="margin-right: 12px;" />
 </div>
 
 <div align="left" style="font-family: 'Arial', sans-serif; color: #333; font-size: 16px;">
   <p style="font-weight: bold; color: #FF6347; margin-bottom: 10px;">Tools I use:</p>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" style="margin-right: 12px;" />
-  </a>
-  <a href="https://github.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" style="margin-right: 12px;" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo" style="margin-right: 12px;" />
-  </a>
-  <a href="https://atom.io/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=atom" height="30" alt="atom logo" style="margin-right: 12px;" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" style="margin-right: 12px;" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" style="margin-right: 12px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" style="margin-right: 12px;" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo" style="margin-right: 12px;" />
+  <img src="https://skillicons.dev/icons?i=atom" height="30" alt="atom logo" style="margin-right: 12px;" />
 </div>
 
 <br clear="both">
