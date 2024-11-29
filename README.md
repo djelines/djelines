@@ -1,5 +1,6 @@
 <div align="center">
     <img src="h2_animated.svg" width="400" height="400" alt="css-in-readme">
+    <br>
     <img src ="h2_animated.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
