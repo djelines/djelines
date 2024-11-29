@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <img src="h2.svg" width="400" height="200" alt="Hello World SVG">
+    <br>
+    <img src="h3.svg" width="400" height="200" alt="Brain SQL SVG">
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -42,6 +44,9 @@
     <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" style="margin-right: 12px;" />
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo" style="margin-right: 12px;" />
+  </a>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo" style="margin-right: 12px;" />
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" style="text-decoration: none;">
