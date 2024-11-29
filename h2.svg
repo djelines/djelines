@@ -1,17 +1,42 @@
-<svg fill="none" viewBox="0 0 400 200" width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 h2 {
-                    font-family: 'Arial', sans-serif;
-                    color: #FF6347;
-                    font-size: 36px;
+                    font-family: 'Courier New', monospace;
+                    text-align : center ; 
                     text-transform: uppercase;
-                    text-align: center;
-                    margin-top: 20px;
+                    font-size : 40px ; 
+                    background: linear-gradient(90deg, #4f308c, #7cafd7, #4f308c); /* Dégradé cyclique */
+                    background-size: 400%; /* Permet l'animation en boucle */
+                    -webkit-background-clip: text;
+                    color: transparent;
+                    animation: gradientShift 8s linear infinite, bounce 2s ease-in-out infinite;
+                }
+
+
+                /* Animation pour faire défiler le dégradé */
+                @keyframes gradientShift {
+                    0% {
+                        background-position: 0% 50%; /* Début de l'animation */
+                    }
+                    100% {
+                        background-position: 100% 50%; /* Fin de l'animation */
+                    }
+                }
+
+                /* Animation de rebond ("bounce") */
+                @keyframes bounce {
+                    0%, 100% {
+                        transform: translateY(0);
+                    }
+                    50% {
+                        transform: translateY(-10px);
+                    }
                 }
             </style>
-            <h2>🌍 Hello, world! Welcome to my GitHub profile. 🌍</h2>
+            
+            <h2>Hello World! Welcome to my GitHub profile.</h2>
         </div>
     </foreignObject>
 </svg>
