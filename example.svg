@@ -1,7 +1,8 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
+                /* Style pour h2 */
                 h2 {
                     font-family: 'Arial', sans-serif;
                     color: #FF6347;
@@ -9,19 +10,155 @@
                     text-transform: uppercase;
                     text-align: center;
                     margin-top: 20px;
+                }
+
+                /* Style pour h3 */
+                h3 {
+                    font-family: 'Arial', sans-serif;
+                    color: #4CAF50;
+                    font-size: 20px;
+                    font-style: italic;
+                    background-color: #F0F0F0;
+                    padding: 10px;
+                    border-radius: 10px;
+                    text-align: center;
+                }
+
+                /* Style pour les paragraphes */
+                p {
+                    font-family: 'Arial', sans-serif;
+                    color: #333;
+                    font-size: 16px;
+                }
+
+                /* Style pour les liens */
+                a {
+                    text-decoration: none;
+                }
+
+                /* Animation pour l'élément h2 */
+                @keyframes colorChange {
+                    0% { color: #FF6347; }
+                    100% { color: #4682B4; }
+                }
+
+                /* Animation de texte de h2 */
+                h2 {
                     animation: colorChange 3s infinite alternate;
                 }
 
-                @keyframes colorChange {
-                    from {
-                        color: #FF6347;
-                    }
-                    to {
-                        color: #4682B4;
-                    }
+                /* Style pour les images à l'intérieur du SVG */
+                img {
+                    margin-top: 20px;
+                    border-radius: 10px;
+                }
+
+                /* Container avec alignement à droite */
+                .tech-container, .tools-container {
+                    text-align: right;
+                    font-size: 16px;
+                    color: #333;
+                    margin-top: 20px;
+                }
+
+                /* Pour les icônes des technologies */
+                .tech-icons img, .tool-icons img {
+                    margin-right: 12px;
+                    height: 30px;
+                }
+
+                /* Disposition des éléments */
+                .content {
+                    text-align: center;
+                    margin-top: 30px;
+                }
+
+                /* Le fond du conteneur */
+                .content div {
+                    background-color: #F0F0F0;
+                    padding: 20px;
+                    border-radius: 10px;
                 }
             </style>
+
+            <!-- Titre principal -->
             <h2>🌍 Hello, world! Welcome to my GitHub profile. 🌍</h2>
+
+            <!-- Sous-titre -->
+            <h3>My brain’s like SQL: sometimes it’s executing queries, sometimes it’s stuck on 'error 404 – brain not found'. 🚀</h3>
+
+            <!-- Conteneur pour l'image de stats -->
+            <div class="content">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djelines&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=jolly&hide_border=true&custom_title=My%20Coding%20Toolbox" height="160" alt="languages graph" />
+            </div>
+
+            <!-- Image animée à droite -->
+            <div class="tech-container">
+                <img align="right" height="100" src="https://i.pinimg.com/originals/b0/da/cd/b0dacd0bb277315b8582d2d0e07d62a8.gif" />
+            </div>
+
+            <!-- Liste des technologies avec leurs logos -->
+            <div class="tech-container">
+                <p style="font-weight: bold; color: #FF6347; margin-bottom: 10px;">Technologies I work with:</p>
+                <div class="tech-icons">
+                    <a href="https://www.python.org/" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=py" alt="python logo" />
+                    </a>
+                    <a href="https://www.java.com/" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=java" alt="java logo" />
+                    </a>
+                    <a href="https://www.php.net/" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=php" alt="php logo" />
+                    </a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=js" alt="javascript logo" />
+                    </a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=html" alt="html5 logo" />
+                    </a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=css" alt="css3 logo" />
+                    </a>
+                </div>
+            </div>
+
+            <!-- Liste des outils utilisés -->
+            <div class="tools-container">
+                <p style="font-weight: bold; color: #FF6347; margin-bottom: 10px;">Tools I use:</p>
+                <div class="tool-icons">
+                    <a href="https://git-scm.com/" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=git" alt="git logo" />
+                    </a>
+                    <a href="https://github.com/" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=github" alt="github logo" />
+                    </a>
+                    <a href="https://code.visualstudio.com/" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" />
+                    </a>
+                    <a href="https://www.jetbrains.com/idea/" target="_blank">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="phpstorm logo" />
+                    </a>
+                    <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo" />
+                    </a>
+                    <a href="https://www.jetbrains.com/webstorm/" target="_blank">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="webstorm logo" />
+                    </a>
+                    <a href="https://atom.io/" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=atom" alt="atom logo" />
+                    </a>
+                </div>
+            </div>
+
+            <!-- Image pour GitHub Snake -->
+            <div class="content">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djelines/djelines/output/github-snake-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djelines/djelines/output/github-snake.svg" />
+                    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+                </picture>
+            </div>
+
         </div>
     </foreignObject>
 </svg>
