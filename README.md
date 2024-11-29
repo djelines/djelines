@@ -30,6 +30,6 @@
   <img src="https://skillicons.dev/icons?i=atom" height="30" alt="atom logo" style="margin-right: 12px;" />
 </div>
 
-<div align="center" style="margin-top: 40px;">
-  <img src="https://raw.githubusercontent.com/djelines/djelines/output/snake.svg" alt="Snake animation" />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/djelines/djelines/output/snake.svg" alt="Snake animation" />
