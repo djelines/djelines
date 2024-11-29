@@ -7,9 +7,9 @@
                     text-decoration: none !important;
                 }
 
-                /* Optionnel : ajouter un changement de couleur au survol */
+                /* Ajouter un changement de couleur au survol */
                 a:hover {
-                    color: #FF6347; /* Changer la couleur au survol (ici tomate) */
+                    color: #FF6347; /* Couleur tomate au survol */
                 }
             </style>
         </div>
