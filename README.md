@@ -1,8 +1,6 @@
 <div align="center">
     <img src="h2_animated.svg" width="400" height="400" alt="css-in-readme">
-</div>
-<div align="center">
-    <img src = "h3.svg" width="400" height="400" alt="css-in-readme">
+    <img src ="h2_animated.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
 <div align="center" style="margin-top: 20px;">
