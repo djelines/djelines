@@ -20,15 +20,7 @@
                     padding: 10px;
                     border-radius: 10px;
                     text-align: center;
-                }
-
-                @keyframes colorChange {
-                    from {
-                        color: #FF6347;
-                    }
-                    to {
-                        color: #4682B4;
-                    }
+                    margin-top: 10px; /* Ajouté pour espacement */
                 }
             </style>
             <h2>🌍 Hello, world! Welcome to my GitHub profile. 🌍</h2>
