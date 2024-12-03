@@ -6,6 +6,7 @@
                 h2 {
                     font-family: 'Courier New', monospace;
                     text-align: center;
+                    width: 100%;
                     text-transform: uppercase;
                     font-size: 40px;
                     background: linear-gradient(90deg, #4f308c, #7cafd7, #4f308c); /* Dégradé cyclique */
