@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="title_animation.svg" width="800" alt="css-in-readme">
+    <img align="center" src="title_animation.svg" width="800" alt="css-in-readme">
 </div>
 <hr>
 <div align="center" style="margin-top: 20px;">
